@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.heading {
+  font-size: medium;
+}
+
+.containers {
+  display: flex;
+  justify-content: space-around;
+  height: 100vh;
+  gap: 2.5rem;
+}
+
+.tasks {
+  font-size: small;
+}
+
+.task {
+  border: 1px solid black;
+  padding: 0.5rem;
+  background-color: thistle;
+  cursor: move;
+}
