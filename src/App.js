@@ -1,4 +1,4 @@
-import BoardsList from "../components/BoardsList";
+import BoardsList from "./components/BoardsList";
 import "./styles.css";
 
 const data = {
